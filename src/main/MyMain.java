@@ -7,7 +7,7 @@ import speak.BotSpeak;
 import java.util.Random;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+//
 public class MyMain {
         public static void main(String[] args) throws Exception {
             BotSpeak speak = new BotSpeak();
